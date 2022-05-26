@@ -1,0 +1,28 @@
+PLINK v1.90b6.26 64-bit (2 Apr 2022)
+Options in effect:
+  --bfile HapMap_3_r3_9
+  --make-bed
+  --out HapMap_3_r3_10
+  --remove het_fail_ind.txt
+
+Hostname: francesco-latitudee6540
+Working directory: /home/francesco/Dropbox/Corsi/Antropologia_Molecolare_e_genetica_delle_dipendenzeII/Esercitazioni/L3_2022/1_QC_GWAS
+Start time: Wed May 25 15:34:38 2022
+
+Random number seed: 1653485678
+15906 MB RAM detected; reserving 7953 MB for main workspace.
+1073226 variants loaded from .bim file.
+165 people (81 males, 84 females) loaded from .fam.
+112 phenotype values loaded from .fam.
+--remove: 163 people remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 110 founders and 53 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate in remaining samples is 0.998071.
+1073226 variants and 163 people pass filters and QC.
+Among remaining phenotypes, 55 are cases and 55 are controls.  (53 phenotypes
+are missing.)
+--make-bed to HapMap_3_r3_10.bed + HapMap_3_r3_10.bim + HapMap_3_r3_10.fam ...
+done.
+
+End time: Wed May 25 15:34:39 2022

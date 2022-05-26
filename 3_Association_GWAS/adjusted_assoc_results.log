@@ -1,0 +1,29 @@
+PLINK v1.90b6.26 64-bit (2 Apr 2022)
+Options in effect:
+  --adjust
+  --assoc
+  --bfile HapMap_3_r3_13
+  --out adjusted_assoc_results
+
+Hostname: francesco-latitudee6540
+Working directory: /home/francesco/Dropbox/Corsi/Antropologia_Molecolare_e_genetica_delle_dipendenzeII/Esercitazioni/L3_2022/3_Association_GWAS
+Start time: Wed May 25 15:38:24 2022
+
+Random number seed: 1653485904
+15906 MB RAM detected; reserving 7953 MB for main workspace.
+1073226 variants loaded from .bim file.
+109 people (55 males, 54 females) loaded from .fam.
+109 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 109 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.998028.
+1073226 variants and 109 people pass filters and QC.
+Among remaining phenotypes, 54 are cases and 55 are controls.
+Writing C/C --assoc report to adjusted_assoc_results.assoc ...
+done.
+--adjust: Genomic inflation est. lambda (based on median chisq) = 1.00965.
+--adjust values (1073226 variants) written to
+adjusted_assoc_results.assoc.adjusted .
+
+End time: Wed May 25 15:38:28 2022

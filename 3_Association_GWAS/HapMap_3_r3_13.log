@@ -1,0 +1,27 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --bfile HapMap_3_r3_13
+  --extract indepSNP.prune.in
+  --genome
+  --out HapMap_3_r3_13
+
+Hostname: ui03.recas.ba.infn.it
+Working directory: /lustrehome/montinar/Ex3TMP
+Start time: Mon May 23 11:52:33 2022
+
+Random number seed: 1653299553
+80357 MB RAM detected; reserving 40178 MB for main workspace.
+1073226 variants loaded from .bim file.
+109 people (55 males, 54 females) loaded from .fam.
+109 phenotype values loaded from .fam.
+--extract: 104144 variants remaining.
+Using up to 23 threads (change this with --threads).
+Before main variant filters, 109 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.99798.
+104144 variants and 109 people pass filters and QC.
+Among remaining phenotypes, 54 are cases and 55 are controls.
+IBD calculations complete.
+Finished writing HapMap_3_r3_13.genome .
+
+End time: Mon May 23 11:52:34 2022
